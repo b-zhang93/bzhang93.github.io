@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi My name is Bowen. This is a test.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is some stuff about me. 
 
 ### Contact me
 
